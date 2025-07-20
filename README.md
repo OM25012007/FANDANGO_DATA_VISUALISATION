@@ -1,12 +1,12 @@
-# <u>**🎬 Fandango Movie Ratings Analysis**</u>
+# <u>** Fandango Movie Ratings Analysis**</u>
 
 A comprehensive data analysis project examining movie rating discrepancies and potential bias in Fandango's rating system compared to other major review platforms.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes movie ratings from various platforms to investigate potential rating inflation on Fandango, a popular movie ticket purchasing website. The analysis explores rating distributions, correlations between different review sites, and visualizes patterns in movie scoring across platforms.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze rating distributions across different movie review platforms
 - Investigate potential bias or inflation in Fandango's rating system
@@ -15,7 +15,7 @@ This project analyzes movie ratings from various platforms to investigate potent
 - Visualize rating correlations and distributions
 - Provide insights into the reliability of different rating platforms
 
-## 📁 Dataset Description
+##  Dataset Description
 
 **Datasets Used:**
 - `all_sites_scores.csv` - Comprehensive movie ratings from multiple platforms
@@ -31,7 +31,7 @@ The datasets contain movie ratings from multiple platforms including:
 
 The data covers popular movies and provides a comprehensive view of how different platforms rate the same films, with the scraped data offering additional insights into Fandango's rating practices.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 fandango-analysis/
@@ -39,12 +39,11 @@ fandango-analysis/
 ├── fandango.ipynb           # Main Jupyter notebook with analysis
 ├── all_sites_scores.csv     # Comprehensive ratings dataset
 ├── fandango_scrape.csv      # Scraped Fandango ratings data
-├── requirements.txt         # Python dependencies
 ├── README.md               # Project documentation
 └── images/                 # Generated visualizations (if saved)
 ```
 
-## 📈 Visualizations Included
+##  Visualizations Included
 
 The notebook generates several key visualizations:
 
